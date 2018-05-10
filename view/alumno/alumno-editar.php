@@ -35,7 +35,7 @@
     
     <div>
         <label>Fecha de nacimiento</label>
-        <input readonly type="text" name="FechaNacimiento" value="<?php echo $alm->FechaNacimiento; ?>" placeholder="Ingrese su fecha de nacimiento" />
+        <input type="text" name="FechaNacimiento" value="<?php echo $alm->FechaNacimiento; ?>" placeholder="Ingrese su fecha de nacimiento" />
     </div>
     
     <hr />
